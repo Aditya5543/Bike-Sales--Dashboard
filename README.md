@@ -2,6 +2,6 @@
 
 ##  EXCEL PROJECT.
 
-# Average Income per purchase.
-# Customer Age Brackets
-# Customer Commute
+**1** Average Income per purchase.
+**2** Customer Age Brackets
+**3** Customer Commute
