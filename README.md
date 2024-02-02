@@ -1,3 +1,7 @@
 # Bike-Sales--Dashboard
 
-## THIS IS MY EXCEL PROJECT.
+##  EXCEL PROJECT.
+
+# Average Income per purchase.
+# Customer Age Brackets
+# Customer Commute
